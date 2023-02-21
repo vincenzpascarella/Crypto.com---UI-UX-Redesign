@@ -11,8 +11,7 @@ struct BalanceView: View {
     var body: some View {
         VStack{
         balanceHeader
-        Image("BalanceImage")
-                .padding(.top, -16)
+        Text("To be completed")
             Spacer()
         }
     }
